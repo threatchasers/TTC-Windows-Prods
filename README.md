@@ -1,4 +1,4 @@
-# TT-Windows-Prods
+# TTC-Windows-Prods
 
 Small, single-file Windows utilities. Each one is a C# source file plus a `build.ps1` that compiles it with the
 C# compiler that ships with Windows (.NET Framework 4) -- nothing to install, no installer, no background service.
